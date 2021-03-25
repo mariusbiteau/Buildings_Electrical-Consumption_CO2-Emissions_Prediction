@@ -7,7 +7,7 @@ The dataset are hosted by the City of Seattle. The city has an open data platfor
 The 2 datasets (one for 2015 and one for 2016) have each building as a data point each (3340 buildings for 2015 and 3376 for 2016) and for each, we have 46 columns, each column represents a different aspect or measure of the specific building.
 
 #### Project Goal
-The goal of the project is to understand these datasets, get some insights from it, and finally to train a model that can predict the energy use and the CO2 emissions for each country. 
+The goal of the project is to understand these datasets, get some insights from it, and finally to train a model that can predict the energy use and the CO2 emissions for each building. 
 ![]()
 
 #### Conclusion 
